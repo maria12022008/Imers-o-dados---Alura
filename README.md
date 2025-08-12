@@ -1,2 +1,2 @@
-# Imers-o-dados---Alura
+# Imersao-o-dados---Alura
 Dashboard de Análise de Salários na Área de Dados
